@@ -1,0 +1,9 @@
+dataset/
+venv/
+results/
+data_labels_extraData.csv
+data_labels_mainData.csv
+logs/
+models/
+catboost_info/
+images/
